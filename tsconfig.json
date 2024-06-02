@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "target": "ES5",
+    "target": "ES6",
     "module": "CommonJS",                                  /* Specify what module code is generated. */
     "noImplicitAny": true,
     "sourceMap": true,
